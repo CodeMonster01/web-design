@@ -1,0 +1,1 @@
+This is a responsive design of a webpage. I used HTML5, CSS (Flexbox, Fontawesome, etc) for creating this.
